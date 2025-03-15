@@ -1,5 +1,7 @@
 # Shell Script
 
+<img src="shell-gif.gif" alt="Shell Gif" style="width: 100%;">
+
 ## Create and  Execute a basic shell script
 
 
