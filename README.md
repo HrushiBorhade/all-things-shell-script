@@ -8,7 +8,7 @@
 | [arguments.sh](/arguments.sh) | Demonstrates how to pass and handle command line arguments in shell scripts |
 | [conditionals.sh](/conditionals.sh) | Examples of if-else statements, case statements and testing conditions in shell scripts |
 | [for_loop.sh](/for_loop.sh) | Demonstrates script using for loop to create directories |
-| 
+| [while_loop.sh](/while_loop.sh) | Demonstrates script using while loop to print numbers
 
 ## Create and  Execute a basic shell script
 ```
