@@ -8,7 +8,8 @@
 | [arguments.sh](/arguments.sh) | Demonstrates how to pass and handle command line arguments in shell scripts |
 | [conditionals.sh](/conditionals.sh) | Examples of if-else statements, case statements and testing conditions in shell scripts |
 | [for_loop.sh](/for_loop.sh) | Demonstrates script using for loop to create directories |
-| [while_loop.sh](/while_loop.sh) | Demonstrates script using while loop to print numbers
+| [while_loop.sh](/while_loop.sh) | Demonstrates script using while loop to print numbers |
+| [functions.sh](/functions.sh) | Shows how to create and use functions with parameters, return values, and variable scope |
 
 ## Create and  Execute a basic shell script
 ```
@@ -37,12 +38,11 @@ total 16
 ```
 ```
 ➜  all-things-shell-script git:(main) ✗ ./hello_world.sh
-Hey there! What's your name?
-Enter your name: hrushi
-Hello, hrushi! Nice to meet you.
+Hello, World!
 ```
 alternate to execute
 ```
 ➜  all-things-shell-script git:(main) ✗ bash hello_world.sh
+Hello, World!
 ```
 
