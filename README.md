@@ -6,6 +6,7 @@
 | [hello_world.sh](/hello_world.sh) | Basic shell script that prints "Hello, World!" - demonstrates script execution |
 | [variables.sh](/variables.sh) | Shows how to declare and use variables in shell scripts |
 | [arguments.sh](/arguments.sh) | Demonstrates how to pass and handle command line arguments in shell scripts |
+| [conditionals.sh](/conditionals.sh) | Examples of if-else statements, case statements and testing conditions in shell scripts |
 
 ## Create and  Execute a basic shell script
 ```
@@ -42,3 +43,4 @@ alternate to execute
 ```
 ➜  all-things-shell-script git:(main) ✗ bash hello_world.sh
 ```
+
