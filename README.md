@@ -7,6 +7,8 @@
 | [variables.sh](/variables.sh) | Shows how to declare and use variables in shell scripts |
 | [arguments.sh](/arguments.sh) | Demonstrates how to pass and handle command line arguments in shell scripts |
 | [conditionals.sh](/conditionals.sh) | Examples of if-else statements, case statements and testing conditions in shell scripts |
+| [for_loop.sh](/for_loop.sh) | Demonstrates script using for loop to create directories |
+| 
 
 ## Create and  Execute a basic shell script
 ```
