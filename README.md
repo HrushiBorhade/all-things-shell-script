@@ -1,22 +1,23 @@
 # ALL THINGS SHELL SCRIPT
 <img src="shell-gif.gif" alt="Shell Gif" style="width: 100%;">
 
+## Basics
 | Script Name | Description |
 |------------|-------------|
-| [hello_world.sh](/hello_world.sh) | Basic shell script that prints "Hello, World!" - demonstrates script execution |
-| [variables.sh](/variables.sh) | Shows how to declare and use variables in shell scripts |
-| [arguments.sh](/arguments.sh) | Demonstrates how to pass and handle command line arguments in shell scripts |
-| [conditionals.sh](/conditionals.sh) | Examples of if-else statements, case statements and testing conditions in shell scripts |
-| [for_loop.sh](/for_loop.sh) | Demonstrates script using for loop to create directories |
-| [while_loop.sh](/while_loop.sh) | Demonstrates script using while loop to print numbers |
-| [functions.sh](/functions.sh) | Shows how to create and use functions with parameters, return values, and variable scope |
+| [hello_world](/basics/hello_world.sh) | Basic shell script that prints "Hello, World!" - demonstrates script execution |
+| [variables](/basics/variables.sh) | Shows how to declare and use variables in shell scripts |
+| [arguments](/basics/arguments.sh) | Demonstrates how to pass and handle command line arguments in shell scripts |
+| [conditionals](/basics/conditionals.sh) | Examples of if-else statements, case statements and testing conditions in shell scripts |
+| [for_loop](/basics/for_loop.sh) | Demonstrates script using for loop to create directories |
+| [while_loop](/basics/while_loop.sh) | Demonstrates script using while loop to print numbers |
+| [functions](/basics/functions.sh) | Shows how to create and use functions with parameters, return values, and variable scope |
 
 ## Create and  Execute a basic shell script
 ```
 ➜  all-things-shell-script git:(main) ✗ vim hello_world.sh
 ```
 
-[hello_world Script](/hello_world.sh)
+[hello_world Script](/basics/hello_world.sh)
 ```
 #! /bin/bash
 echo "Hello, World!"
